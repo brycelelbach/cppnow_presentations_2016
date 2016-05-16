@@ -22,7 +22,7 @@
 | Morning (9:00-10:30)  | [C++14 Version of Boost.MSM-eUML][]                                                           | Diet for Your Templates: Reducing Code Bloat in Your Templated Library     | [Variants: Past, Present, and Future][]                                       |
 | Morning (11:00-12:30) | [Come Stream With Me: Build Performant, Simple, Parallel Applications in C++ Using RaftLib][] | Documenting C++ Using the Right Tools                                      | array_ref: Multidimensional Array References for the C++ Standard Library     |
 | Afternoon (2:30-4:00) | Pulling Visitors                                                                              | Thread-safe Observer Pattern: You're Doing It Wrong                        | Metaprogramming for the Brave                                                 |
-| Afternoon (4:30-6:00) | Implementation of a Multithreaded Compile-Time ECS in C++14                                   | Implementing a Lock-Free atomic_shared_ptr                                 | [Friendship in Service of Testing][]                                          |
+| Afternoon (4:30-6:00) | Implementation of a Multithreaded Compile-Time ECS in C++14                                   | [Implementing a Lock-Free atomic_shared_ptr][]                             | [Friendship in Service of Testing][]                                          |
 |                       |                                                                                               |                                                                            | Design Patterns in the 21st Century                                           |
 
 ## Thursday, May 12
@@ -50,6 +50,7 @@
 [C++14 Version of Boost.MSM-eUML]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/cpp14_version_of_boost_msm_euml.pdf
 [Variants: Past, Present, and Future]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/variants_past_present_and_future.pdf
 [Come Stream With Me: Build Performant, Simple, Parallel Applications in C++ Using RaftLib]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/come_stream_with_me_build_performant_simple_parallel_applications_in_cpp_using_raftlib.pdf
+[Implementing a Lock-Free atomic_shared_ptr]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/implementing_a_lock_free_atomic_shared_ptr.pdf
 [Friendship in Service of Testing]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/friendship_in_service_of_testing.pdf
 
 [Let's Make a Web Match-3 Game in C++14]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/lets_make_a_web_match3_game_in_cpp14.pdf
