@@ -1,2 +1,0 @@
-All code available on:
-https://github.com/SuperV1234/cppnow2016
