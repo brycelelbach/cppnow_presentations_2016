@@ -45,7 +45,7 @@
 | Afternoon (4:30-6:00) | [What is the Basic Interface?][]        | [The CPU Cache: Instruction Re-Ordering Made Obvious][]         | [No Sane Compiler would Optimize Atomics][]                                                    |
 
 [C++14 Dependency Injection]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/cpp14_dependency_injection_library.pdf
-[Practical Performance Practices]:  https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/PracticalPerformancePractices.pdf
+[Practical Performance Practices]:  https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/practical_performance_practices.pdf
 [Monoids, Monads and Applicative Functors: Repeated Software Patterns]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/monoids_monads_and_applicative_functors_repeated_software_patterns.pdf
 
 [C++14 Version of Boost.MSM-eUML]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/cpp14_version_of_boost_msm_euml.pdf
@@ -59,7 +59,7 @@
 [Let's Make a Web Match-3 Game in C++14]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/lets_make_a_web_match3_game_in_cpp14.pdf
 [Preprocessor-Aware Automated Refactoring]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/preprocessor_aware_automated_refactoring.pdf
 [Implementing Static Control Flow in C++14]: https://github.com/SuperV1234/cppnow2016
-[Why And How To Add Scripting]:  https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/WhyAndHowToAddScripting.pdf
+[Why And How To Add Scripting]:  https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/why_and_how_to_add_scripting.pdf
 
 [What is the Basic Interface?]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/03_friday/what_is_the_basic_interface.pdf
 [The CPU Cache: Instruction Re-Ordering Made Obvious]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/03_friday/the_cpu_cache_instruction_reordering_made_obvious.pdf
