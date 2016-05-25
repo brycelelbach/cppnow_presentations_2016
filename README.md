@@ -12,7 +12,7 @@
 |                       | Bethe                                                    | Booz Allen Hamilton                                  | Flug                                                                                              |
 |-----------------------|----------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Morning (11:00-12:30) | Flowz: Towards an EDSL for Digital Signal Processing     | Typegrind: Type Preserving Heap Profiler for C++     | [C++14 Dependency Injection][]                                                                    |
-| Afternoon (2:00-3:30) | Proper Inheritance (Part 1)                              | CopperSpice: The Next Generation of Signals          | Practical Performance Practices                                                                   |
+| Afternoon (2:00-3:30) | Proper Inheritance (Part 1)                              | CopperSpice: The Next Generation of Signals          | [Practical Performance Practices][]                                                               |
 | Afternoon (4:00-5:30) | Proper Inheritance (Part 2)                              | Metaprogramming for Dummies                          | [Monoids, Monads and Applicative Functors: Repeated Software Patterns][]                          |
 
 ## Wednesday, May 11
@@ -33,7 +33,7 @@
 | Morning (11:00-12:30) | IoC++: A IoC Framework for C++                                                                                                   | Multithreading is the Answer. What was the Question? (Part 2) | [Implementing Static Control Flow in C++14][]               |
 | Afternoon (2:30-4:00) | The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion Introspection in a High Performance Web Service     | [Preprocessor-Aware Automated Refactoring][]                  | Exceptional Performance                                     |
 | Afternoon (4:30-6:00) | Extending C++ with Co-Array Semantics                                                                                            | Progress on Contract Support for C++17                        | C++ Tool Support: Where We Are and Where We Are Heading     |
-|                       |                                                                                                                                  |                                                               | Why and How To Add Scripting                                |
+|                       |                                                                                                                                  |                                                               | [Why and How To Add Scripting][]                            |
 
 ## Friday, May 13
 
@@ -45,6 +45,7 @@
 | Afternoon (4:30-6:00) | [What is the Basic Interface?][]        | [The CPU Cache: Instruction Re-Ordering Made Obvious][]         | [No Sane Compiler would Optimize Atomics][]                                                    |
 
 [C++14 Dependency Injection]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/cpp14_dependency_injection_library.pdf
+[Practical Performance Practices]:  https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/PracticalPerformancePractices.pdf
 [Monoids, Monads and Applicative Functors: Repeated Software Patterns]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/monoids_monads_and_applicative_functors_repeated_software_patterns.pdf
 
 [C++14 Version of Boost.MSM-eUML]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/cpp14_version_of_boost_msm_euml.pdf
@@ -58,6 +59,7 @@
 [Let's Make a Web Match-3 Game in C++14]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/lets_make_a_web_match3_game_in_cpp14.pdf
 [Preprocessor-Aware Automated Refactoring]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/preprocessor_aware_automated_refactoring.pdf
 [Implementing Static Control Flow in C++14]: https://github.com/SuperV1234/cppnow2016
+[Why And How To Add Scripting]:  https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/WhyAndHowToAddScripting.pdf
 
 [What is the Basic Interface?]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/03_friday/what_is_the_basic_interface.pdf
 [The CPU Cache: Instruction Re-Ordering Made Obvious]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/03_friday/the_cpu_cache_instruction_reordering_made_obvious.pdf
