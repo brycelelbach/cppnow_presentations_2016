@@ -13,7 +13,7 @@
 |-----------------------|----------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Morning (11:00-12:30) | Flowz: Towards an EDSL for Digital Signal Processing     | Typegrind: Type Preserving Heap Profiler for C++     | [C++14 Dependency Injection][]                                                                    |
 | Afternoon (2:00-3:30) | Proper Inheritance (Part 1)                              | CopperSpice: The Next Generation of Signals          | [Practical Performance Practices][]                                                               |
-| Afternoon (4:00-5:30) | Proper Inheritance (Part 2)                              | Metaprogramming for Dummies                          | [Monoids, Monads and Applicative Functors: Repeated Software Patterns][]                          |
+| Afternoon (4:00-5:30) | Proper Inheritance (Part 2)                              | [Metaprogramming for Dummies][]                      | [Monoids, Monads and Applicative Functors: Repeated Software Patterns][]                          |
 
 ## Wednesday, May 11
 
@@ -21,7 +21,7 @@
 |-----------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Morning (9:00-10:30)  | [C++14 Version of Boost.MSM-eUML][]                                                           | Diet for Your Templates: Reducing Code Bloat in Your Templated Library     | [Variants: Past, Present, and Future][]                                       |
 | Morning (11:00-12:30) | [Come Stream With Me: Build Performant, Simple, Parallel Applications in C++ Using RaftLib][] | Documenting C++ Using the Right Tools                                      | array_ref: Multidimensional Array References for the C++ Standard Library     |
-| Afternoon (2:30-4:00) | [Pulling Visitors][]                                                                          | Thread-safe Observer Pattern: You're Doing It Wrong                        | Metaprogramming for the Brave                                                 |
+| Afternoon (2:30-4:00) | [Pulling Visitors][]                                                                          | Thread-safe Observer Pattern: You're Doing It Wrong                        | [Metaprogramming for the Brave][]                                             |
 | Afternoon (4:30-6:00) | [Implementation of a Multithreaded Compile-Time ECS in C++14][]                               | [Implementing a Lock-Free atomic_shared_ptr][]                             | [Friendship in Service of Testing][]                                          |
 |                       |                                                                                               |                                                                            | Design Patterns in the 21st Century                                           |
 
@@ -47,6 +47,7 @@
 [C++14 Dependency Injection]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/cpp14_dependency_injection_library.pdf
 [Practical Performance Practices]:  https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/practical_performance_practices.pdf
 [Monoids, Monads and Applicative Functors: Repeated Software Patterns]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/00_tuesday/monoids_monads_and_applicative_functors_repeated_software_patterns.pdf
+[Metaprogramming for Dummies]: https://ldionne.github.io/cppnow-2016-metaprogramming-for-dummies
 
 [C++14 Version of Boost.MSM-eUML]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/cpp14_version_of_boost_msm_euml.pdf
 [Variants: Past, Present, and Future]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/variants_past_present_and_future.pdf
@@ -55,6 +56,7 @@
 [Friendship in Service of Testing]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/friendship_in_service_of_testing.pdf
 [Pulling Visitors]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/pulling_visitors.pdf
 [Implementation of a Multithreaded Compile-Time ECS in C++14]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/01_wednesday/implementation_of_a_multithreaded_compile_time_ecs_in_cpp14.pdf
+[Metaprogramming for the Brave]: https://ldionne.github.io/cppnow-2016-metaprogramming-for-the-brave
 
 [Let's Make a Web Match-3 Game in C++14]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/lets_make_a_web_match3_game_in_cpp14.pdf
 [Preprocessor-Aware Automated Refactoring]: https://github.com/brycelelbach/cppnow_presentations_2016/raw/master/02_thursday/preprocessor_aware_automated_refactoring.pdf
