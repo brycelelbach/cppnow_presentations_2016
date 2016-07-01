@@ -1,7 +1,7 @@
 # Slide Deck Guidelines
 
 * Slide decks should be in the PDF format.
-* Slide decks should be context-free 
+* Slide decks should be context-free.
     * Include the name and year of the conference somewhere in your slide deck.
     * Include links to supplemental presentation materials (example code, referenced documents, etc) in your slide deck.
 * Place your copyright somewhere in your slide deck.
@@ -13,6 +13,10 @@
 * A PDF slide deck is a single file, making it easy to download and forward.
 * PDFs are fairly portable and have a consistent rendering across bdesktop and mobile OSes.
 * PDFs are easy to print.
+
+*Why can't I just link to my HTML5 + javascript slide deck on my website?*
+
+Because we do not have a way of guaranteeing that your website will be accessible 5/10/15 years from now. This repository should be self-contained. 
 
 *Why should we include contextual information (conference name, links, etc)? Why should we include a copyright ?*
 
