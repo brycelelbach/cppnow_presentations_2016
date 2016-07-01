@@ -31,7 +31,7 @@
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
 | Morning (9:00-10:30)  | [Let's Make a Web Match-3 Game in C++14][]                                                                                       | [Multithreading is the Answer. What was the Question? (Part 1)][] | Variadic Expansion in Examples                              |
 | Morning (11:00-12:30) | [IoC++: An IoC Framework for C++][]                                                                                                   | [Multithreading is the Answer. What was the Question? (Part 2)][] | [Implementing Static Control Flow in C++14][]               |
-| Afternoon (2:30-4:00) | The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion Introspection in a High Performance Web Service     | [Preprocessor-Aware Automated Refactoring][]                  | Exceptional Performance                                     |
+| Afternoon (2:30-4:00) | [The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion Introspection in a High Performance Web Service][]     | [Preprocessor-Aware Automated Refactoring][]                  | Exceptional Performance                                     |
 | Afternoon (4:30-6:00) | Extending C++ with Co-Array Semantics                                                                                            | Progress on Contract Support for C++17                        | C++ Tool Support: Where We Are and Where We Are Heading     |
 |                       |                                                                                                                                  |                                                               | [Why and How To Add Scripting][]                            |
 
@@ -67,6 +67,7 @@
 [Multithreading is the Answer. What was the Question? (Part 2)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/multithreading_is_the_answer_what_was_the_question_part_2.pdf
 [Preprocessor-Aware Automated Refactoring]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/preprocessor_aware_automated_refactoring.pdf
 [Implementing Static Control Flow in C++14]: https://github.com/SuperV1234/cppnow2016
+[The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion Introspection in a High Performance Web Service]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/the_effective_structured_data_marshalling_demarshalling_through_boost_fusion_introspection_in_a_high_performance_web_service.pdf
 [Why And How To Add Scripting]:  https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/why_and_how_to_add_scripting.pdf
 
 [The Design of a New C++ Build Toolchain]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/the_design_of_a_new_cpp_build_toolchain.pdf
