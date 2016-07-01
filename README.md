@@ -19,7 +19,7 @@
 
 |                       | Bethe                                                                                         | Booz Allen Hamilton                                                        | Flug                                                                          |
 |-----------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Morning (9:00-10:30)  | [C++14 Version of Boost.MSM-eUML][]                                                           | Diet for Your Templates: Reducing Code Bloat in Your Templated Library     | [Variants: Past, Present, and Future][]                                       |
+| Morning (9:00-10:30)  | [C++14 Version of Boost.MSM-eUML][]                                                           | [Diet for your Templates: Reducing Code Bloat in your Templated Library][]     | [Variants: Past, Present, and Future][]                                       |
 | Morning (11:00-12:30) | [Come Stream With Me: Build Performant, Simple, Parallel Applications in C++ Using RaftLib][] | [Documenting C++ Using the Right Tools][]                                      | array_ref: Multidimensional Array References for the C++ Standard Library     |
 | Afternoon (2:30-4:00) | [Pulling Visitors][]                                                                          | Thread-safe Observer Pattern: You're Doing It Wrong                        | [Metaprogramming for the Brave][]                                                 |
 | Afternoon (4:30-6:00) | [Implementation of a Multithreaded Compile-Time ECS in C++14][]                               | [Implementing a Lock-Free atomic_shared_ptr][]                             | [Friendship in Service of Testing][]                                          |
@@ -30,7 +30,7 @@
 |                       | Bethe                                                                                                                            | Booz Allen Hamilton                                           | Flug                                                        |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
 | Morning (9:00-10:30)  | [Let's Make a Web Match-3 Game in C++14][]                                                                                       | [Multithreading is the Answer. What was the Question? (Part 1)][] | Variadic Expansion in Examples                              |
-| Morning (11:00-12:30) | IoC++: A IoC Framework for C++                                                                                                   | [Multithreading is the Answer. What was the Question? (Part 2)][] | [Implementing Static Control Flow in C++14][]               |
+| Morning (11:00-12:30) | [IoC++: An IoC Framework for C++][]                                                                                                   | [Multithreading is the Answer. What was the Question? (Part 2)][] | [Implementing Static Control Flow in C++14][]               |
 | Afternoon (2:30-4:00) | The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion Introspection in a High Performance Web Service     | [Preprocessor-Aware Automated Refactoring][]                  | Exceptional Performance                                     |
 | Afternoon (4:30-6:00) | Extending C++ with Co-Array Semantics                                                                                            | Progress on Contract Support for C++17                        | C++ Tool Support: Where We Are and Where We Are Heading     |
 |                       |                                                                                                                                  |                                                               | [Why and How To Add Scripting][]                            |
@@ -51,6 +51,7 @@
 [Monoids, Monads and Applicative Functors: Repeated Software Patterns]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/monoids_monads_and_applicative_functors_repeated_software_patterns.pdf
 
 [C++14 Version of Boost.MSM-eUML]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/cpp14_version_of_boost_msm_euml.pdf
+[Diet for your Templates: Reducing Code Bloat in your Templated Library]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/diet_for_your_templates_reducing_code_bloat_in_your_templated_library.pdf
 [Variants: Past, Present, and Future]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/variants_past_present_and_future.pdf
 [Come Stream With Me: Build Performant, Simple, Parallel Applications in C++ Using RaftLib]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/come_stream_with_me_build_performant_simple_parallel_applications_in_cpp_using_raftlib.pdf
 [Documenting C++ Using the Right Tools]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/documenting_cpp_using_the_right_tools.pdf
@@ -62,6 +63,7 @@
 
 [Let's Make a Web Match-3 Game in C++14]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/lets_make_a_web_match3_game_in_cpp14.pdf
 [Multithreading is the Answer. What was the Question? (Part 1)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/multithreading_is_the_answer_what_was_the_question_part_1.pdf
+[IoC++: An IoC Framework for C++]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/iocpp_an_ioc_framework_for_cpp.pdf
 [Multithreading is the Answer. What was the Question? (Part 2)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/multithreading_is_the_answer_what_was_the_question_part_2.pdf
 [Preprocessor-Aware Automated Refactoring]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/preprocessor_aware_automated_refactoring.pdf
 [Implementing Static Control Flow in C++14]: https://github.com/SuperV1234/cppnow2016
