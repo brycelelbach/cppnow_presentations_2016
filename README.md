@@ -6,7 +6,7 @@
 
 |                       | Paepcke                  |
 |-----------------------|--------------------------|
-| Morning (9:00-10:30)  | Keynote: Better Code     |
+| Morning (9:00-10:30)  | Keynote: [Better Code][] |
 
 
 |                       | Bethe                                                    | Booz Allen Hamilton                                  | Flug                                                                                              |
@@ -43,6 +43,8 @@
 | Morning (11:00-12:30) | Understanding Boost.Build               | Simple Hand Written Parsers                                     | An Interesting Lock-free Queue: Part 2 of N                                                    |
 | Afternoon (2:30-4:00) | HPX and GPU Parallelized STL            | The Fiber Library                                               | Implementing tuple in C++17                                                                    |
 | Afternoon (4:30-6:00) | [What is the Basic Interface?][]        | [The CPU Cache: Instruction Re-Ordering Made Obvious][]         | [No Sane Compiler would Optimize Atomics][]                                                    |
+
+[Better Code]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/better_code.pdf
 
 [C++14 Dependency Injection]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/cpp14_dependency_injection_library.pdf
 [CopperSpice: The Next Generation of Signals]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/copperspice_the_next_generation_of_signals.pdf
