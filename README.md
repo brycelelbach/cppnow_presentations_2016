@@ -11,7 +11,7 @@
 
 |                       | Bethe                                                    | Booz Allen Hamilton                                  | Flug                                                                                              |
 |-----------------------|----------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Morning (11:00-12:30) | Flowz: Towards an EDSL for Digital Signal Processing     | Typegrind: Type Preserving Heap Profiler for C++     | [C++14 Dependency Injection][]                                                                    |
+| Morning (11:00-12:30) | Flowz: Towards an EDSL for Digital Signal Processing     | [Typegrind: Type Preserving Heap Profiler for C++][]     | [C++14 Dependency Injection][]                                                                    |
 | Afternoon (2:00-3:30) | [Proper Inheritance (Part 1)][]                              | [CopperSpice: The Next Generation of Signals][]          | [Practical Performance Practices][]                                                               |
 | Afternoon (4:00-5:30) | [Proper Inheritance (Part 2)][]                              | [Metaprogramming for Dummies][]                          | [Monoids, Monads and Applicative Functors: Repeated Software Patterns][]                          |
 
@@ -23,7 +23,7 @@
 | Morning (11:00-12:30) | [Come Stream With Me: Build Performant, Simple, Parallel Applications in C++ Using RaftLib][] | [Documenting C++ Using the Right Tools][]                                      | array_ref: Multidimensional Array References for the C++ Standard Library     |
 | Afternoon (2:30-4:00) | [Pulling Visitors][]                                                                          | Thread-safe Observer Pattern: You're Doing It Wrong                        | [Metaprogramming for the Brave][]                                                 |
 | Afternoon (4:30-6:00) | [Implementation of a Multithreaded Compile-Time ECS in C++14][]                               | [Implementing a Lock-Free atomic_shared_ptr][]                             | [Friendship in Service of Testing][]                                          |
-|                       |                                                                                               |                                                                            | Design Patterns in the 21st Century                                           |
+|                       |                                                                                               |                                                                            | [Design Patterns in the 21st Century][]                                           |
 
 ## Thursday, May 12
 
@@ -46,6 +46,7 @@
 
 [Better Code]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/better_code.pdf
 
+[Typegrind: Type Preserving Heap Profiler for C++]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/typegrind_type_preserving_heap_profiler_for_cpp.pdf
 [C++14 Dependency Injection]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/cpp14_dependency_injection_library.pdf
 [Proper Inheritance (Part 1)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/proper_inheritance.pdf
 [CopperSpice: The Next Generation of Signals]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/copperspice_the_next_generation_of_signals.pdf
@@ -64,6 +65,7 @@
 [Pulling Visitors]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/pulling_visitors.pdf
 [Metaprogramming for the Brave]: https://ldionne.github.io/cppnow-2016-metaprogramming-for-the-brave
 [Implementation of a Multithreaded Compile-Time ECS in C++14]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/implementation_of_a_multithreaded_compile_time_ecs_in_cpp14.pdf
+[Design Patterns in the 21st Century]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/design_patterns_in_the_21st_century.pdf
 
 [Let's Make a Web Match-3 Game in C++14]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/lets_make_a_web_match3_game_in_cpp14.pdf
 [Multithreading is the Answer. What was the Question? (Part 1)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/multithreading_is_the_answer_what_was_the_question_part_1.pdf
