@@ -12,8 +12,8 @@
 |                       | Bethe                                                    | Booz Allen Hamilton                                  | Flug                                                                                              |
 |-----------------------|----------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Morning (11:00-12:30) | Flowz: Towards an EDSL for Digital Signal Processing     | Typegrind: Type Preserving Heap Profiler for C++     | [C++14 Dependency Injection][]                                                                    |
-| Afternoon (2:00-3:30) | Proper Inheritance (Part 1)                              | [CopperSpice: The Next Generation of Signals][]          | [Practical Performance Practices][]                                                               |
-| Afternoon (4:00-5:30) | Proper Inheritance (Part 2)                              | [Metaprogramming for Dummies][]                          | [Monoids, Monads and Applicative Functors: Repeated Software Patterns][]                          |
+| Afternoon (2:00-3:30) | [Proper Inheritance (Part 1)][]                              | [CopperSpice: The Next Generation of Signals][]          | [Practical Performance Practices][]                                                               |
+| Afternoon (4:00-5:30) | [Proper Inheritance (Part 2)][]                              | [Metaprogramming for Dummies][]                          | [Monoids, Monads and Applicative Functors: Repeated Software Patterns][]                          |
 
 ## Wednesday, May 11
 
@@ -47,7 +47,9 @@
 [Better Code]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/better_code.pdf
 
 [C++14 Dependency Injection]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/cpp14_dependency_injection_library.pdf
+[Proper Inheritance (Part 1)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/proper_inheritance.pdf
 [CopperSpice: The Next Generation of Signals]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/copperspice_the_next_generation_of_signals.pdf
+[Proper Inheritance (Part 2)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/proper_inheritance.pdf
 [Practical Performance Practices]:  https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/practical_performance_practices.pdf
 [Metaprogramming for Dummies]: https://ldionne.github.io/cppnow-2016-metaprogramming-for-dummies
 [Monoids, Monads and Applicative Functors: Repeated Software Patterns]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/monoids_monads_and_applicative_functors_repeated_software_patterns.pdf
