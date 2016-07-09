@@ -40,7 +40,7 @@
 |                       | Bethe                                   | Booz Allen Hamilton                                             | Flug                                                                                           |
 |-----------------------|-----------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Morning (9:00-10:30)  | [The Design of a New C++ Build Toolchain][] | C++ Performance in Practice: Align, Vectorise, Cache, Jump!     | [Goodbye Metaprogramming, and Hello Functional: Living in a Post-Metaprogramming Era in C++][]     |
-| Morning (11:00-12:30) | Understanding Boost.Build               | Simple Hand Written Parsers                                     | An Interesting Lock-free Queue: Part 2 of N                                                    |
+| Morning (11:00-12:30) | [Understanding Boost.Build][]               | Simple Hand Written Parsers                                     | An Interesting Lock-free Queue: Part 2 of N                                                    |
 | Afternoon (2:30-4:00) | HPX and GPU Parallelized STL            | [The Fiber Library][]                                               | Implementing tuple in C++17                                                                    |
 | Afternoon (4:30-6:00) | [What is the Basic Interface?][]        | [The CPU Cache: Instruction Re-Ordering Made Obvious][]         | [No Sane Compiler would Optimize Atomics][]                                                    |
 
@@ -74,6 +74,7 @@
 
 [The Design of a New C++ Build Toolchain]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/the_design_of_a_new_cpp_build_toolchain.pdf
 [Goodbye Metaprogramming, and Hello Functional: Living in a Post-Metaprogramming Era in C++]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/goodbye_metaprogramming_and_hello_functional_living_in_a_post_metaprogramming_era_in_cpp.pdf
+[Understanding Boost.Build]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/understanding_boost_build.pdf
 [The Fiber Library]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/the_fiber_library.pdf
 [What is the Basic Interface?]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/what_is_the_basic_interface.pdf
 [The CPU Cache: Instruction Re-Ordering Made Obvious]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/the_cpu_cache_instruction_reordering_made_obvious.pdf
