@@ -29,7 +29,7 @@
 
 |                       | Bethe                                                                                                                            | Booz Allen Hamilton                                           | Flug                                                        |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
-| Morning (9:00-10:30)  | [Let's Make a Web Match-3 Game in C++14][]                                                                                       | [Multithreading is the Answer. What was the Question? (Part 1)][] | Variadic Expansion in Examples                              |
+| Morning (9:00-10:30)  | [Let's Make a Web Match-3 Game in C++14][]                                                                                       | [Multithreading is the Answer. What was the Question? (Part 1)][] | [Variadic Expansion in Examples][]                              |
 | Morning (11:00-12:30) | [IoC++: An IoC Framework for C++][]                                                                                                   | [Multithreading is the Answer. What was the Question? (Part 2)][] | [Implementing Static Control Flow in C++14][]               |
 | Afternoon (2:30-4:00) | [The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion Introspection in a High Performance Web Service][]     | [Preprocessor-Aware Automated Refactoring][]                  | Exceptional Performance                                     |
 | Afternoon (4:30-6:00) | Extending C++ with Co-Array Semantics                                                                                            | Progress on Contract Support for C++17                        | C++ Tool Support: Where We Are and Where We Are Heading     |
@@ -40,7 +40,7 @@
 |                       | Bethe                                   | Booz Allen Hamilton                                             | Flug                                                                                           |
 |-----------------------|-----------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Morning (9:00-10:30)  | [The Design of a New C++ Build Toolchain][] | C++ Performance in Practice: Align, Vectorise, Cache, Jump!     | [Goodbye Metaprogramming, and Hello Functional: Living in a Post-Metaprogramming Era in C++][]     |
-| Morning (11:00-12:30) | [Understanding Boost.Build][]               | Simple Hand Written Parsers                                     | An Interesting Lock-free Queue: Part 2 of N                                                    |
+| Morning (11:00-12:30) | [Understanding Boost.Build][]               | [Simple Hand Written Parsers][]                                     | An Interesting Lock-free Queue: Part 2 of N                                                    |
 | Afternoon (2:30-4:00) | HPX and GPU Parallelized STL            | [The Fiber Library][]                                               | Implementing tuple in C++17                                                                    |
 | Afternoon (4:30-6:00) | [What is the Basic Interface?][]        | [The CPU Cache: Instruction Re-Ordering Made Obvious][]         | [No Sane Compiler would Optimize Atomics][]                                                    |
 
@@ -67,6 +67,7 @@
 
 [Let's Make a Web Match-3 Game in C++14]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/lets_make_a_web_match3_game_in_cpp14.pdf
 [Multithreading is the Answer. What was the Question? (Part 1)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/multithreading_is_the_answer_what_was_the_question_part_1.pdf
+[Variadic Expansion in Examples]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/variadic_expansion_in_examples.pdf
 [IoC++: An IoC Framework for C++]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/iocpp_an_ioc_framework_for_cpp.pdf
 [Multithreading is the Answer. What was the Question? (Part 2)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/multithreading_is_the_answer_what_was_the_question_part_2.pdf
 [Preprocessor-Aware Automated Refactoring]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/02_thursday/preprocessor_aware_automated_refactoring.pdf
@@ -77,6 +78,7 @@
 [The Design of a New C++ Build Toolchain]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/the_design_of_a_new_cpp_build_toolchain.pdf
 [Goodbye Metaprogramming, and Hello Functional: Living in a Post-Metaprogramming Era in C++]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/goodbye_metaprogramming_and_hello_functional_living_in_a_post_metaprogramming_era_in_cpp.pdf
 [Understanding Boost.Build]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/understanding_boost_build.pdf
+[Simple Hand Written Parsers]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/simple_hand_written_parsers.pdf
 [The Fiber Library]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/the_fiber_library.pdf
 [What is the Basic Interface?]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/what_is_the_basic_interface.pdf
 [The CPU Cache: Instruction Re-Ordering Made Obvious]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/the_cpu_cache_instruction_reordering_made_obvious.pdf
