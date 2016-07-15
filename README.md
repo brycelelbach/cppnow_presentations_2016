@@ -51,8 +51,8 @@
 [Proper Inheritance (Part 1)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/proper_inheritance.pdf
 [CopperSpice: The Next Generation of Signals]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/copperspice_the_next_generation_of_signals.pdf
 [Proper Inheritance (Part 2)]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/proper_inheritance.pdf
-[Practical Performance Practices]:  https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/practical_performance_practices.pdf
-[Metaprogramming for Dummies]: https://ldionne.github.io/cppnow-2016-metaprogramming-for-dummies
+[Practical Performance Practices]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/practical_performance_practices.pdf
+[Metaprogramming for Dummies]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/metaprogramming_for_dummies.pdf
 [Monoids, Monads and Applicative Functors: Repeated Software Patterns]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/00_tuesday/monoids_monads_and_applicative_functors_repeated_software_patterns.pdf
 
 [C++14 Version of Boost.MSM-eUML]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/cpp14_version_of_boost_msm_euml.pdf
@@ -63,7 +63,7 @@
 [Implementing a Lock-Free atomic_shared_ptr]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/implementing_a_lock_free_atomic_shared_ptr.pdf
 [Friendship in Service of Testing]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/friendship_in_service_of_testing.pdf
 [Pulling Visitors]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/pulling_visitors.pdf
-[Metaprogramming for the Brave]: https://ldionne.github.io/cppnow-2016-metaprogramming-for-the-brave
+[Metaprogramming for the Brave]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/metaprogramming_for_the_brave.pdf
 [Implementation of a Multithreaded Compile-Time ECS in C++14]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/implementation_of_a_multithreaded_compile_time_ecs_in_cpp14.pdf
 [Design Patterns in the 21st Century]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/design_patterns_in_the_21st_century.pdf
 
