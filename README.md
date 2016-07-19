@@ -21,7 +21,7 @@
 |-----------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Morning (9:00-10:30)  | [C++14 Version of Boost.MSM-eUML][]                                                           | [Diet for your Templates: Reducing Code Bloat in your Templated Library][]     | [Variants: Past, Present, and Future][]                                       |
 | Morning (11:00-12:30) | [Come Stream With Me: Build Performant, Simple, Parallel Applications in C++ Using RaftLib][] | [Documenting C++ Using the Right Tools][]                                      | array_ref: Multidimensional Array References for the C++ Standard Library     |
-| Afternoon (2:30-4:00) | [Pulling Visitors][]                                                                          | Thread-safe Observer Pattern: You're Doing It Wrong                        | [Metaprogramming for the Brave][]                                                 |
+| Afternoon (2:30-4:00) | [Pulling Visitors][]                                                                          | [Thread-safe Observer Pattern: You're Doing It Wrong][]                        | [Metaprogramming for the Brave][]                                                 |
 | Afternoon (4:30-6:00) | [Implementation of a Multithreaded Compile-Time ECS in C++14][]                               | [Implementing a Lock-Free atomic_shared_ptr][]                             | [Friendship in Service of Testing][]                                          |
 |                       |                                                                                               |                                                                            | [Design Patterns in the 21st Century][]                                           |
 
@@ -40,7 +40,7 @@
 |                       | Bethe                                   | Booz Allen Hamilton                                             | Flug                                                                                           |
 |-----------------------|-----------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Morning (9:00-10:30)  | [The Design of a New C++ Build Toolchain][] | [C++ Performance in Practice: Align, Vectorise, Cache, Jump!][]     | [Goodbye Metaprogramming, and Hello Functional: Living in a Post-Metaprogramming Era in C++][]     |
-| Morning (11:00-12:30) | [Understanding Boost.Build][]               | [Simple Hand Written Parsers][]                                     | An Interesting Lock-free Queue: Part 2 of N                                                    |
+| Morning (11:00-12:30) | [Understanding Boost.Build][]               | [Simple Hand Written Parsers][]                                     | [An Interesting Lock-free Queue: Part 2 of N][]                                                    |
 | Afternoon (2:30-4:00) | [HPX and GPU Parallelized STL][]            | [The Fiber Library][]                                               | Implementing tuple in C++17                                                                    |
 | Afternoon (4:30-6:00) | [What is the Basic Interface?][]        | [The CPU Cache: Instruction Re-Ordering Made Obvious][]         | [No Sane Compiler would Optimize Atomics][]                                                    |
 
@@ -63,6 +63,7 @@
 [Implementing a Lock-Free atomic_shared_ptr]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/implementing_a_lock_free_atomic_shared_ptr.pdf
 [Friendship in Service of Testing]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/friendship_in_service_of_testing.pdf
 [Pulling Visitors]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/pulling_visitors.pdf
+[Thread-safe Observer Pattern: You're Doing It Wrong]: https://github.com/boostcon/cppnow_presentations_2016/tree/master/01_wednesday/thread_safe_observer_pattern_youre_doing_it_wrong
 [Metaprogramming for the Brave]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/metaprogramming_for_the_brave.pdf
 [Implementation of a Multithreaded Compile-Time ECS in C++14]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/implementation_of_a_multithreaded_compile_time_ecs_in_cpp14.pdf
 [Design Patterns in the 21st Century]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/01_wednesday/design_patterns_in_the_21st_century.pdf
@@ -83,6 +84,7 @@
 [Goodbye Metaprogramming, and Hello Functional: Living in a Post-Metaprogramming Era in C++]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/goodbye_metaprogramming_and_hello_functional_living_in_a_post_metaprogramming_era_in_cpp.pdf
 [Understanding Boost.Build]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/understanding_boost_build.pdf
 [Simple Hand Written Parsers]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/simple_hand_written_parsers.pdf
+[An Interesting Lock-free Queue: Part 2 of N]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/an_interesting_lock_free_queue_part_2_of_n.pdf
 [HPX and GPU Parallelized STL]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/hpx_and_gpu_parallelized_stl.pdf
 [The Fiber Library]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/the_fiber_library.pdf
 [What is the Basic Interface?]: https://github.com/boostcon/cppnow_presentations_2016/raw/master/03_friday/what_is_the_basic_interface.pdf
